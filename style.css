@@ -1,11 +1,13 @@
 body{
-  font-family: Arial;
+  font-family: helvetica, sans-serif;
 }
 
 #main_page_header{
   color: black;
+  text-align: center;
 }
 
 h2{
   color: grey;
+  text-align: center;
 }
